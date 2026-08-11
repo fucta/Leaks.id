@@ -14,7 +14,7 @@
 - Perpustakaan yang diperlukan terdapat di file `require.txt`
 
 ## Instalasi  
-- git clone https://github.com/dcodekemii/Leaks.id.git  
+- git clone https://github.com/satsiber/Leaks.id.git  
 - cd Leaks.id
 - pip install -r require.txt
 - python dist/run.py
