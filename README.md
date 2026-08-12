@@ -1,4 +1,4 @@
-# Leaks.id  
+# Leaks.id v1.0.0
 
 **Leaks.id** adalah sebuah proyek Python untuk mendeteksi dan menganalisis kebocoran data secara otomatis. Proyek ini dirancang untuk membantu pengguna, peneliti, dan profesional keamanan dalam memantau kebocoran informasi sensitif di berbagai platform dan layanan.
 
